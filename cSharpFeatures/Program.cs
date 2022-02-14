@@ -10,6 +10,7 @@ namespace cSharpFeatures
             var propertySetters = new PropertySetters();
             Console.WriteLine(propertySetters.myDateTime);
 
+            NullConditionalOperator nullConditionalOperator = new NullConditionalOperator();
         }
     }
 }
